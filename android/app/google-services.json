@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "890973467415",
+    "project_id": "driver-rating-b7896",
+    "storage_bucket": "driver-rating-b7896.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890973467415:android:b4f45876339268d378bd52",
+        "android_client_info": {
+          "package_name": "com.example.driver_rating"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890973467415-l7v25v4ostf7k84q5h04dog66aa00lr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUDTcaXZ3CHWF0ZTAa51FTCALhbt8YsUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890973467415-l7v25v4ostf7k84q5h04dog66aa00lr7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "890973467415-83t06le0qoodfo1ukmq0le8hi83mo81k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.driverRating"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890973467415:android:06893258aa62ed7178bd52",
+        "android_client_info": {
+          "package_name": "com.ratemyparking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890973467415-l7v25v4ostf7k84q5h04dog66aa00lr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUDTcaXZ3CHWF0ZTAa51FTCALhbt8YsUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890973467415-l7v25v4ostf7k84q5h04dog66aa00lr7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "890973467415-83t06le0qoodfo1ukmq0le8hi83mo81k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.driverRating"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
